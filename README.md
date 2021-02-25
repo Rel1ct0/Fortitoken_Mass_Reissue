@@ -1,6 +1,6 @@
 # Fortitoken_Reissue
 
-Mass reissue of Fortitokens for LDAP users on FortiAuthenticator
+Mass reissue of Mobile Fortitokens for LDAP users on FortiAuthenticator
 
 Requires REST API administrator account and access key
 
