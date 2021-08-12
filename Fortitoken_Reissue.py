@@ -18,7 +18,7 @@ FortiAuth = sys.argv[1]
 user = sys.argv[2]
 apiKey = sys.argv[3]
 
-logfile = open('/home/glushkovpa/token_reissue.log', 'a')
+logfile = open('token_reissue.log', 'a')
 logfile.write(f'\n\n=============={time.asctime(time.localtime())}================\n\n')
 
 logfile.write('Getting a list of inactive users\n')
